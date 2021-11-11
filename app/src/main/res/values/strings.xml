@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AmplitudeDemo</string>
+    <string name="AmplitudeApiKey" translatable="false">3fcfce42c91941aa1a418e4d34af44e1</string>
+</resources>
